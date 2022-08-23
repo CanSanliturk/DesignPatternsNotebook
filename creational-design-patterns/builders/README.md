@@ -9,3 +9,7 @@
 * Instead, opt for piecewise construction.
 
 * Builder provides an API for constucting an object step-by-step.
+
+* To make builder fluent, return this parameter to be able to call build methods fluently.
+
+* Different facets of an object can be built with different builders working in tandem via a base class.
