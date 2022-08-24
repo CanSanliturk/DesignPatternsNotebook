@@ -13,3 +13,5 @@
 * A factory can take care of objects creation.
 
 * A factory can be external or reside inside the object as an inner class.
+
+* Hierarchies of factories can be used to create related objects.
