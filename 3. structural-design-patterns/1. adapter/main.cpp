@@ -39,3 +39,6 @@ private:
     int sideLen;
 };
 
+int main() {
+  return 0;
+}
