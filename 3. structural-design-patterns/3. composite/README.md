@@ -10,7 +10,7 @@
 
 * Composite design pattern is used tı treat both single (scalar) and composite objects uniformly
 
-	* I.e., Foo and Collection<Foo> have common APIs
+	* I.e., Foo and Collection\<Foo\> have common APIs
 
 
 # DEFINITION
