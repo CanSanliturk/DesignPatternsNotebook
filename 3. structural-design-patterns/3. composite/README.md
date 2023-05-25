@@ -19,7 +19,7 @@
 
 # SUMMARY
 
-* Objects can use other ıbjects via inheritance/composition
+* Objects can use other objects via inheritance/composition
 
 * Some composed and singular objects need similar/identical behaviors
 
